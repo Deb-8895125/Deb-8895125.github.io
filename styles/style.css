@@ -7,7 +7,7 @@ body {
 }
 .background_image {
     width: 200%;
-    height: 1000px;
+    height: 500px;
     background-color: #9e9e9e;
     background-image: url("../images/deb1.jpg");
     background-size: cover;
@@ -15,7 +15,7 @@ body {
 }
 .nav_container{
     width: 100%;
-    height: 60px;
+    height: 300px;
     padding-left: 300px;
     box-sizing: border-box;
     display: flex;
