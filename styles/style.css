@@ -6,7 +6,7 @@ body {
     font-family:  Helvetica;
 }
 .background_image {
-    width: 150%;
+    width: 200%;
     height: 500px;
     background-color: #9e9e9e;
     background-image: url("../images/deb1.jpg");
